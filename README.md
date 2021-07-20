@@ -19,9 +19,9 @@ insert pictures in readme.\
 ![Donate](./images/donateUs.jpg)
 
 ## Donation Screenshots
-![1](.images/donate1.jpg)
+![1](./images/donate1.jpg)
 
-![3](.images/donate3.jpg)
+![3](./images/donate3.jpg)
 
-![2](.images/donate2.jpg)
+![2](./images/donate2.jpg)
 
